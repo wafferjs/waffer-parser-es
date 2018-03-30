@@ -1,0 +1,19 @@
+{
+  "name": "waffer-parser-es",
+  "version": "0.0.1",
+  "description": "ES6+ parser for waffer",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafferjs/waffer-parser-es.git"
+  },
+  "author": "Kasper Seweryn <kasper@wvffle.net> (https://wvffle.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wafferjs/waffer-parser-es/issues"
+  },
+  "homepage": "https://github.com/wafferjs/waffer-parser-es#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
